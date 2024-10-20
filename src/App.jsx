@@ -5,7 +5,6 @@ function App() {
 
   return (
     <div className="w-full h-screen duration-200 flex flex-col items-center justify-center" style={{ backgroundColor: color }}>
-      
       <div className="text-center mb-8">
         <h1 className="text-6xl font-extrabold tracking-widest text-white drop-shadow-lg">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 shadow-3xl">AURORA</span>
